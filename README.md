@@ -1,1 +1,2 @@
-# python-data-science-and-machine-learning-bootcamp-jose-portilla
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
